@@ -1,0 +1,22 @@
+/* Apply Form Styling */
+.bantuan-form-container {
+    max-width: 600px;
+    margin: 100px auto; /* Menambahkan margin atas untuk menghindari navbar */
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.bantuan-form-container h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.bantuan-form-container .form-group {
+    margin-bottom: 20px;
+}
+
+.bantuan-form-container .btn {
+    width: 100%;
+}
